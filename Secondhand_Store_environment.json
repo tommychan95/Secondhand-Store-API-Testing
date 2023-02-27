@@ -1,0 +1,15 @@
+{
+	"id": "dbddb465-970e-4690-86f6-efcddff5bac8",
+	"name": "Secondhand Store",
+	"values": [
+		{
+			"key": "secondhand.url",
+			"value": "http://market-final-project.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-11-24T04:20:20.989Z",
+	"_postman_exported_using": "Postman/10.4.5"
+}
